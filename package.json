@@ -1,0 +1,10 @@
+{
+  "name": "@namanag0502/v3-core",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.1",
+  "description": "core package of contracts for swify dexxx",
+  "main": "index.js",
+  "license": "MIT"
+}
